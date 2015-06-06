@@ -3,4 +3,4 @@ Practical training for computer graphics studies.
 
 Some tasks we have to finish in our computer science class related to computer graphics.
 
-Additional changes for testing purpose.
+Additional changes for testing purpose. Even more changes...
